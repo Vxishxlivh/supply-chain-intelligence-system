@@ -1,0 +1,18 @@
+# Large data files
+data/raw/
+data/processed/master_orders.csv
+data/processed/seller_scorecard.csv
+data/processed/category_summary.csv
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Tableau
+*.twbx
+*.hyper
+
+# System
+.DS_Store
+Thumbs.db
